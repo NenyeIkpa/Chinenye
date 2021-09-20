@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "833443072829",
+    "firebase_url": "https://mytrackerapp-323614-default-rtdb.firebaseio.com",
+    "project_id": "mytrackerapp-323614",
+    "storage_bucket": "mytrackerapp-323614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833443072829:android:fa50d1f43ae9921b015354",
+        "android_client_info": {
+          "package_name": "com.example.mapsactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833443072829-8i20govbmdvku64keckgpmkm7fbu5k9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1oBYF3VP4cvtkSL1Iq0opW5QdPjCfuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833443072829-8i20govbmdvku64keckgpmkm7fbu5k9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833443072829:android:933a9dac0f83b7c7015354",
+        "android_client_info": {
+          "package_name": "com.gentlekboy.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833443072829-8i20govbmdvku64keckgpmkm7fbu5k9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1oBYF3VP4cvtkSL1Iq0opW5QdPjCfuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833443072829-8i20govbmdvku64keckgpmkm7fbu5k9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833443072829:android:9fedd9b2287e1113015354",
+        "android_client_info": {
+          "package_name": "com.gentlekboy.weekeighttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833443072829-8i20govbmdvku64keckgpmkm7fbu5k9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1oBYF3VP4cvtkSL1Iq0opW5QdPjCfuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833443072829-8i20govbmdvku64keckgpmkm7fbu5k9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
